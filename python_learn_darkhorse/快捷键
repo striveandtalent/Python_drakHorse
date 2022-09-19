@@ -1,0 +1,20 @@
+快捷键：
+ctrl + alt+ s:打开软件设置
+ctrl+ d:复制当前行代码
+shift + alt + 上\下：将当前行代码上下移动
+crtl + shift + f10∶运行当前代码文件
+shift + f6∶重命名文件
+ctrl+ a:全选
+ctrl + clv\x∶复制、粘贴、剪切
+ctrl+ f:搜索
+Ctrl + Alt + L 可以将代码格式工整化 非常漂亮舒服
+
+注释：
+1)单行注释:Ctrl+/
+# XXXXXXXXXXXXXX(#号和注释内容一般建议以一个空格隔开)
+2)多行注释:
+"""
+    XXXXXXXX
+    XXXXXXXX
+    XXXXXXXX
+"""
